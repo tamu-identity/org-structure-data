@@ -5,3 +5,4 @@ Data in this repository contains machine-readable organizational structure data 
 Available data:
 
 - Colleges & Schools (Departments included)
+- Divisions (Departments included)
