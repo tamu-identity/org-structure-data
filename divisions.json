@@ -1,0 +1,358 @@
+{
+    "Division of Academic Affairs": {
+        "Departments": [
+            {
+                "Department Code": "ASC",
+                "Department Name": "Academic Success Center"
+            },
+            {
+                "Department Code": "APDF",
+                "Department Name": "Academy for Visual & Performing Arts"
+            },
+            {
+                "Department Code": "ADVA",
+                "Department Name": "Advance"
+            },
+            {
+                "Department Code": "AHSO",
+                "Department Name": "Aggie Honor System Office"
+            },
+            {
+                "Department Code": "APHU",
+                "Department Name": "Associate Provost for Undergraduate Studies"
+            },
+            {
+                "Department Code": "TEXC",
+                "Department Name": "Center For Teaching Excellence"
+            },
+            {
+                "Department Code": "APDF",
+                "Department Name": "Dean of Faculties"
+            },
+            {
+                "Department Code": "SABR",
+                "Department Name": "Education Abroad"
+            },
+            {
+                "Department Code": "APDF",
+                "Department Name": "Immigration Services for Faculty & Scholars"
+            },
+            {
+                "Department Code": "UHON",
+                "Department Name": "Launch"
+            },
+            {
+                "Department Code": "MLC",
+                "Department Name": "Math Learning Center"
+            },
+            {
+                "Department Code": "MHEC",
+                "Department Name": "McAllen Higher Ed Center"
+            },
+            {
+                "Department Code": "AIOL",
+                "Department Name": "Office for Academic Innovation"
+            },
+            {
+                "Department Code": "OSS",
+                "Department Name": "Office for Student Success"
+            },
+            {
+                "Department Code": "GRST",
+                "Department Name": "Office of Graduate & Professional Studies"
+            },
+            {
+                "Department Code": "OOIA",
+                "Department Name": "Office of Institutional Effectiveness & Evaluation"
+            },
+            {
+                "Department Code": "APAA",
+                "Department Name": "Office of the Vice Provost for Academic Affairs"
+            },
+            {
+                "Department Code": "ACAD",
+                "Department Name": "Transition Academic Programs"
+            },
+            {
+                "Department Code": "UWC",
+                "Department Name": "University Writing Center"
+            }
+        ]
+    },
+    "Division of Enrollment & Academic Services": {
+        "Departments": [
+            {
+                "Department Code": "AABS",
+                "Department Name": "Academic Affairs Business Services"
+            },
+            {
+                "Department Code": "AAVC",
+                "Department Name": "Appelt Aggieland Visitor Center"
+            },
+            {
+                "Department Code": "CARC",
+                "Department Name": "Career Center"
+            },
+            {
+                "Department Code": "ODRS",
+                "Department Name": "Data & Research Services"
+            },
+            {
+                "Department Code": "EMARK",
+                "Department Name": "Enrollment & Academic Services Marketing"
+            },
+            {
+                "Department Code": "HECN",
+                "Department Name": "Instructional Media Services"
+            },
+            {
+                "Department Code": "ISS",
+                "Department Name": "International Student Services"
+            },
+            {
+                "Department Code": "ADMI",
+                "Department Name": "Office of Admissions"
+            },
+            {
+                "Department Code": "REGI",
+                "Department Name": "Office of the Registrar"
+            },
+            {
+                "Department Code": "ITAS",
+                "Department Name": "Open Access Labs"
+            },
+            {
+                "Department Code": "ITAS",
+                "Department Name": "Provost Information Technology Office"
+            },
+            {
+                "Department Code": "SFAOP",
+                "Department Name": "Scholarships & Financial Aid"
+            }
+        ]
+    },
+    "Division of Finance & Operations": {
+        "Departments": [
+            {
+                "Department Code": "CCOM",
+                "Department Name": "Department of Contract Administration"
+            },
+            {
+                "Department Code": "DAS",
+                "Department Name": "Departmental Accounting Services"
+            },
+            {
+                "Department Code": "EHSD",
+                "Department Name": "Environmental Health & Safety"
+            },
+            {
+                "Department Code": "FDA",
+                "Department Name": "Facilities & Dining Administration"
+            },
+            {
+                "Department Code": "FISC",
+                "Department Name": "Financial Management Operations"
+            },
+            {
+                "Department Code": "EDPS",
+                "Department Name": "IT Services"
+            },
+            {
+                "Department Code": "CREC",
+                "Department Name": "Logistics Services"
+            },
+            {
+                "Department Code": "OBAS",
+                "Department Name": "Office of Budget & Planning"
+            },
+            {
+                "Department Code": "SASE",
+                "Department Name": "Office of Safety & Security"
+            },
+            {
+                "Department Code": "SUST",
+                "Department Name": "Office of Sustainability"
+            },
+            {
+                "Department Code": "VPFN3",
+                "Department Name": "Office of the Associate Vice President & Controller"
+            },
+            {
+                "Department Code": "UARC",
+                "Department Name": "Office of the University Architect"
+            },
+            {
+                "Department Code": "PAYR",
+                "Department Name": "Payroll Services"
+            },
+            {
+                "Department Code": "PURS",
+                "Department Name": "Procurement Services"
+            },
+            {
+                "Department Code": "SFSV",
+                "Department Name": "Student Business Services"
+            },
+            {
+                "Department Code": "PATT",
+                "Department Name": "Transportation Services"
+            },
+            {
+                "Department Code": "COPS",
+                "Department Name": "University Police"
+            },
+            {
+                "Department Code": "UTIL",
+                "Department Name": "Utilities & Energy Services"
+            }
+        ]
+    },
+    "Division of Human Resources & Organizational Effectiveness": {
+        "Departments": [
+            {
+                "Department Code": "HUMR",
+                "Department Name": "Human Resources"
+            }
+        ]
+    },
+    "Division of Information Technology": {
+        "Departments": [
+            {
+                "Department Code": "CSCN",
+                "Department Name": "Office of the Vice President For Information Technology & CIO"
+            },
+            {
+                "Department Code": "APCI",
+                "Department Name": "Texas A&M Health Information Technology"
+            }
+        ]
+    },
+    "Division of Marketing & Communications": {
+        "Departments": [
+            {
+                "Department Code": "EDBS",
+                "Department Name": "Educational Broadcast Services"
+            },
+            {
+                "Department Code": "VPMC",
+                "Department Name": "Office of the Vice President For Marketing And Communications"
+            }
+        ]
+    },
+    "Division of Research": {
+        "Departments": [
+            {
+                "Department Code": "LAAR",
+                "Department Name": "Comparative Medicine Program"
+            },
+            {
+                "Department Code": "ENRGY",
+                "Department Name": "Energy Institute"
+            },
+            {
+                "Department Code": "GHRC",
+                "Department Name": "Global Health Research Complex"
+            },
+            {
+                "Department Code": "WSGI",
+                "Department Name": "Institute for Genome Sciences & Society"
+            },
+            {
+                "Department Code": "TAMDS",
+                "Department Name": "Institute of Data Science"
+            },
+            {
+                "Department Code": "EMIC",
+                "Department Name": "Microscopy & Imaging Center"
+            },
+            {
+                "Department Code": "URES",
+                "Department Name": "Office of the Vice President for Research"
+            },
+            {
+                "Department Code": "MSTRO",
+                "Department Name": "Research Information Systems"
+            },
+            {
+                "Department Code": "OSRS",
+                "Department Name": "Sponsored Research Services"
+            }
+        ]
+    },
+    "Division of Student Affairs": {
+        "Departments": [
+            {
+                "Department Code": "CHCR",
+                "Department Name": "Children's Center"
+            },
+            {
+                "Department Code": "SCOU",
+                "Department Name": "Counseling & Psychological Services"
+            },
+            {
+                "Department Code": "DOIT",
+                "Department Name": "Department of Information Technology"
+            },
+            {
+                "Department Code": "MUSA",
+                "Department Name": "Department of Music Activities"
+            },
+            {
+                "Department Code": "RSPO",
+                "Department Name": "Department of Recreational Sports"
+            },
+            {
+                "Department Code": "DSSA",
+                "Department Name": "Disability Services"
+            },
+            {
+                "Department Code": "MSCN",
+                "Department Name": "Memorial Student Center Programs"
+            },
+            {
+                "Department Code": "MUSC",
+                "Department Name": "Multicultural Services"
+            },
+            {
+                "Department Code": "CCOR",
+                "Department Name": "Office of the Commandant"
+            },
+            {
+                "Department Code": "STAF",
+                "Department Name": "Offices of the Dean of Student Life"
+            },
+            {
+                "Department Code": "RELH",
+                "Department Name": "Residence Life"
+            },
+            {
+                "Department Code": "RUDD",
+                "Department Name": "Rudder Theatre Complex"
+            },
+            {
+                "Department Code": "SACT",
+                "Department Name": "Student Activities"
+            },
+            {
+                "Department Code": "BEUT",
+                "Department Name": "Student Health Services"
+            },
+            {
+                "Department Code": "STLS",
+                "Department Name": "Student Life Studies"
+            },
+            {
+                "Department Code": "UART",
+                "Department Name": "University Art Exhibits"
+            },
+            {
+                "Department Code": "UCEN",
+                "Department Name": "University Center & Special Events"
+            },
+            {
+                "Department Code": "VRSC",
+                "Department Name": "Veteran Resource & Support Center"
+            }
+        ]
+    }
+}
