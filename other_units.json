@@ -1,0 +1,74 @@
+{
+    "Athletics": {
+        "Departments": [
+            {
+                "Department Code": "ATCO",
+                "Department Name": "Athletic Compliance"
+            },
+            {
+                "Department Code": "ATHL",
+                "Department Name": "Director of Athletics"
+            },
+            {
+                "Department Code": "REED",
+                "Department Name": "Reed Arena"
+            }
+        ]
+    },
+    "Office of the President": {
+        "Departments": [
+            {
+                "Department Code": "MASD",
+                "Department Name": "Office of Risk, Ethics and Compliance"
+            },
+            {
+                "Department Code": "VPFN",
+                "Department Name": "Office of the Vice President For Finance & Chief Financial Officer"
+            },
+            {
+                "Department Code": "GOVT",
+                "Department Name": "Office of the Vice President For Government Relations and Strategic Initiatives "
+            },
+            {
+                "Department Code": "VPSS",
+                "Department Name": "Office of the Vice President For Student Affairs"
+            }
+        ]
+    },
+    "Office of the Provost And Executive Vice President": {
+        "Departments": [
+            {
+                "Department Code": "EIS",
+                "Department Name": "Enterprise Information Systems"
+            },
+            {
+                "Department Code": "TAMIP",
+                "Department Name": "Innovation Partners"
+            },
+            {
+                "Department Code": "TAMIN",
+                "Department Name": "Institute for Neuroscience"
+            },
+            {
+                "Department Code": "IQSE",
+                "Department Name": "Institute for Quantum Science & Engineering"
+            },
+            {
+                "Department Code": "IDIV",
+                "Department Name": "Office of the Vice President & Associate Provost for Diversity "
+            },
+            {
+                "Department Code": "PERC",
+                "Department Name": "Private Enterprise Research Center"
+            },
+            {
+                "Department Code": "PCOMM",
+                "Department Name": "Provost Communications Office"
+            },
+            {
+                "Department Code": "PPO",
+                "Department Name": "Public Partnership & Outreach"
+            }
+        ]
+    }
+}

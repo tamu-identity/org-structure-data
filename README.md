@@ -6,3 +6,4 @@ Available data:
 
 - Colleges & Schools (Departments included)
 - Divisions (Departments included)
+- Other units (Units reporting directly to President or Provost)
