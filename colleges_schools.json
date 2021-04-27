@@ -115,33 +115,27 @@
       "Departments": [
          {
             "Department Code": "EAHR",
-            "Department Name": "Educational Administration & Human Resources Development",
-            "College Code": "CLED"
+            "Department Name": "Educational Administration & Human Resources Development"
          },
          {
             "Department Code": "EPSY",
-            "Department Name": "Educational Psychology",
-            "College Code": "CLED"
+            "Department Name": "Educational Psychology"
          },
          {
             "Department Code": "HLKN",
-            "Department Name": "Health & Kinesiology",
-            "College Code": "CLED"
+            "Department Name": "Health & Kinesiology"
          },
          {
             "Department Code": "CLED",
-            "Department Name": "Office of the Dean of Education",
-            "College Code": "CLED"
+            "Department Name": "Office of the Dean of Education"
          },
          {
             "Department Code": "CERD",
-            "Department Name": "Research & Development",
-            "College Code": "CLED"
+            "Department Name": "Research & Development"
          },
          {
             "Department Code": "TLAC",
-            "Department Name": "Teaching Learning & Culture",
-            "College Code": "CLED"
+            "Department Name": "Teaching Learning & Culture"
          }
       ]
    },
