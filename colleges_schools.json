@@ -1,0 +1,492 @@
+{
+   "Bush School of Government & Public Service": {
+      "College Code": "SGPS",
+      "Departments": [
+         {
+            "Department Code": "BUDC",
+            "Department Name": "Bush School DC Teaching Site"
+         },
+         {
+            "Department Code": "INTA",
+            "Department Name": "International Affairs"
+         },
+         {
+            "Department Code": "BPCC",
+            "Department Name": "Presidential Conference Center"
+         },
+         {
+            "Department Code": "PSAA",
+            "Department Name": "Public Service & Administration"
+         }
+      ]
+   },
+   "College of Agriculture & Life Sciences": {
+      "College Code": "CLAG",
+      "Departments": [
+         {
+            "Department Code": "AGEC",
+            "Department Name": "Agricultural Economics"
+         },
+         {
+            "Department Code": "ANSC",
+            "Department Name": "Animal Science"
+         },
+         {
+            "Department Code": "BCBP",
+            "Department Name": "Biochemistry & Biophysics"
+         },
+         {
+            "Department Code": "AGEN",
+            "Department Name": "Biological & Agricultural Engineering"
+         },
+         {
+            "Department Code": "ECCB",
+            "Department Name": "Ecology & Conservation Biology"
+         },
+         {
+            "Department Code": "ENTO",
+            "Department Name": "Entomology"
+         },
+         {
+            "Department Code": "FSTC",
+            "Department Name": "Food Science & Technology"
+         },
+         {
+            "Department Code": "HORT",
+            "Department Name": "Horticultural Sciences"
+         },
+         {
+            "Department Code": "NFSC",
+            "Department Name": "Nutrition"
+         },
+         {
+            "Department Code": "CLAG",
+            "Department Name": "Office of the Dean of Agriculture & Life Sciences"
+         },
+         {
+            "Department Code": "PLPM",
+            "Department Name": "Plant Pathology & Microbiology"
+         },
+         {
+            "Department Code": "RWFM",
+            "Department Name": "Rangeland Wildlife & Fisheries Management"
+         },
+         {
+            "Department Code": "RPTS",
+            "Department Name": "Recreation Parks & Tourism Science"
+         },
+         {
+            "Department Code": "SCSC",
+            "Department Name": "Soil & Crop Sciences"
+         }
+      ]
+   },
+   "College of Architecture": { 
+      "College Code": "CLAR",
+      "Departments": [
+         {
+            "Department Code": "ARCH",
+            "Department Name": "Architecture"
+         },
+         {
+            "Department Code": "COLN",
+            "Department Name": "Colonias Program"
+         },
+         {
+            "Department Code": "COSC",
+            "Department Name": "Construction Science"
+         },
+         {
+            "Department Code": "LAUP",
+            "Department Name": "Landscape Architecture & Urban Planning"
+         },
+         {
+            "Department Code": "CLAR",
+            "Department Name": "Office of the Dean of Architecture"
+         },
+         {
+            "Department Code": "VIZA",
+            "Department Name": "Visualization"
+         }
+      ]
+   },
+   "College of Education": { 
+      "College Code": "CLED",
+      "Departments": [
+         {
+            "Department Code": "EAHR",
+            "Department Name": "Educational Administration & Human Resources Development",
+            "College Code": "CLED"
+         },
+         {
+            "Department Code": "EPSY",
+            "Department Name": "Educational Psychology",
+            "College Code": "CLED"
+         },
+         {
+            "Department Code": "HLKN",
+            "Department Name": "Health & Kinesiology",
+            "College Code": "CLED"
+         },
+         {
+            "Department Code": "CLED",
+            "Department Name": "Office of the Dean of Education",
+            "College Code": "CLED"
+         },
+         {
+            "Department Code": "CERD",
+            "Department Name": "Research & Development",
+            "College Code": "CLED"
+         },
+         {
+            "Department Code": "TLAC",
+            "Department Name": "Teaching Learning & Culture",
+            "College Code": "CLED"
+         }
+      ]
+   },
+   "College of Engineering": { 
+      "College Code": "CLEN",
+      "Departments": [
+         {
+            "Department Code": "AERO",
+            "Department Name": "Aerospace Engineering"
+         },
+         {
+            "Department Code": "BMEN",
+            "Department Name": "Biomedical Engineering"
+         },
+         {
+            "Department Code": "CHEN",
+            "Department Name": "Chemical Engineering"
+         },
+         {
+            "Department Code": "CVEN",
+            "Department Name": "Civil Engineering"
+         },
+         {
+            "Department Code": "CPSC",
+            "Department Name": "Computer Science & Engineering"
+         },
+         {
+            "Department Code": "ELEN",
+            "Department Name": "Electrical & Computer Engineering"
+         },
+         {
+            "Department Code": "EAPO",
+            "Department Name": "Engineering Student Services & Academic Programs"
+         },
+         {
+            "Department Code": "ENTC",
+            "Department Name": "Engineering Technology & Industrial Distribution"
+         },
+         {
+            "Department Code": "INEN",
+            "Department Name": "Industrial & Systems Engineering"
+         },
+         {
+            "Department Code": "MCF",
+            "Department Name": "Materials Characterization Facility"
+         },
+         {
+            "Department Code": "MSEN",
+            "Department Name": "Materials Science & Engineering"
+         },
+         {
+            "Department Code": "MEEN",
+            "Department Name": "Mechanical Engineering"
+         },
+         {
+            "Department Code": "MTDE",
+            "Department Name": "Multidisciplinary Engineering"
+         },
+         {
+            "Department Code": "NUEN",
+            "Department Name": "Nuclear Engineering"
+         },
+         {
+            "Department Code": "OCEN",
+            "Department Name": "Ocean Engineering"
+         },
+         {
+            "Department Code": "CLEN",
+            "Department Name": "Office of the Dean of Engineering"
+         },
+         {
+            "Department Code": "PETE",
+            "Department Name": "Petroleum Engineering"
+         },
+         {
+            "Department Code": "DLEN",
+            "Department Name": "Remote Education"
+         },
+         {
+            "Department Code": "ZACH",
+            "Department Name": "Zachry Engineering Education Complex"
+         }
+      ]
+   },
+   "College of Geosciences": { 
+      "College Code": "CLGE",
+      "Departments": [
+         {
+            "Department Code": "GERG",
+            "Department Name": "Geochemical & Environmental Research Group"
+         },
+         {
+            "Department Code": "GEOG",
+            "Department Name": "Geography"
+         },
+         {
+            "Department Code": "GEOL",
+            "Department Name": "Geology"
+         },
+         {
+            "Department Code": "IODP",
+            "Department Name": "International Ocean Discovery Program"
+         },
+         {
+            "Department Code": "METR",
+            "Department Name": "Meteorology"
+         },
+         {
+            "Department Code": "OCNG",
+            "Department Name": "Oceanography"
+         },
+         {
+            "Department Code": "CLGE",
+            "Department Name": "Office of the Dean of Geosciences"
+         },
+         {
+            "Department Code": "SEAG",
+            "Department Name": "Sea Grant Program Office"
+         }
+      ]
+   },
+   "College of Liberal Arts": { 
+      "College Code": "CLLA",
+      "Departments": [
+         {
+            "Department Code": "ANTH",
+            "Department Name": "Anthropology"
+         },
+         {
+            "Department Code": "SCOM",
+            "Department Name": "Communication"
+         },
+         {
+            "Department Code": "ECON",
+            "Department Name": "Economics"
+         },
+         {
+            "Department Code": "ENGL",
+            "Department Name": "English"
+         },
+         {
+            "Department Code": "HISP",
+            "Department Name": "Hispanic Studies"
+         },
+         {
+            "Department Code": "HIST",
+            "Department Name": "History"
+         },
+         {
+            "Department Code": "INTST",
+            "Department Name": "International Studies"
+         },
+         {
+            "Department Code": "CLLA",
+            "Department Name": "Office of the Dean of Liberal Arts"
+         },
+         {
+            "Department Code": "PERF",
+            "Department Name": "Performance Studies"
+         },
+         {
+            "Department Code": "PHIL",
+            "Department Name": "Philosophy & Humanities"
+         },
+         {
+            "Department Code": "POLS",
+            "Department Name": "Political Science"
+         },
+         {
+            "Department Code": "PSYC",
+            "Department Name": "Psychology"
+         },
+         {
+            "Department Code": "PPRI",
+            "Department Name": "Public Policy Research Institute"
+         },
+         {
+            "Department Code": "SOCI",
+            "Department Name": "Sociology"
+         }
+      ]   
+   },
+   "College of Science": { 
+      "College Code": "CLSC",
+      "Departments": [
+         {
+            "Department Code": "ATLT",
+            "Department Name": "Academy for Advanced Telecommunications and Learning Technologies"
+         },
+         {
+            "Department Code": "BIOL",
+            "Department Name": "Biology"
+         },
+         {
+            "Department Code": "CHEM",
+            "Department Name": "Chemistry"
+         },
+         {
+            "Department Code": "CYCL",
+            "Department Name": "Cyclotron Institute"
+         },
+         {
+            "Department Code": "ISC",
+            "Department Name": "Institute For Scientific Computation"
+         },
+         {
+            "Department Code": "IAMCS",
+            "Department Name": "Institute for Applied Mathematics and Computational Science"
+         },
+         {
+            "Department Code": "MATH",
+            "Department Name": "Mathematics"
+         },
+         {
+            "Department Code": "CLSC",
+            "Department Name": "Office of the Dean of Science"
+         },
+         {
+            "Department Code": "PHYS",
+            "Department Name": "Physics & Astronomy"
+         },
+         {
+            "Department Code": "STAT",
+            "Department Name": "Statistics"
+         }
+      ]
+   },
+   "College of Veterinary Medicine & Biomedical Sciences": { 
+      "College Code": "CLVM",
+      "Departments": [
+         {
+            "Department Code": "VBMS",
+            "Department Name": "Biomedical Sciences"
+         },
+         {
+            "Department Code": "VLCS",
+            "Department Name": "Large Animal Clinical Sciences"
+         },
+         {
+            "Department Code": "CLVM",
+            "Department Name": "Office of the Dean of Veterinary Medicine & Biomedical Science"
+         },
+         {
+            "Department Code": "VSCS",
+            "Department Name": "Small Animal Clinical Sciences"
+         },
+         {
+            "Department Code": "TIPS",
+            "Department Name": "Texas Institute For Preclinical Studies"
+         },
+         {
+            "Department Code": "VIBS",
+            "Department Name": "Veterinary Integrative Biosciences"
+         },
+         {
+            "Department Code": "VTPK",
+            "Department Name": "Veterinary Medical Park"
+         },
+         {
+            "Department Code": "VMTH",
+            "Department Name": "Veterinary Medical Teaching Hospital"
+         },
+         {
+            "Department Code": "VTPB",
+            "Department Name": "Veterinary Pathobiology"
+         },
+         {
+            "Department Code": "VTPP",
+            "Department Name": "Veterinary Physiology & Pharmacology"
+         }
+      ]
+   },
+   "Mays Business School": { 
+      "College Code": "CLBA",
+      "Departments": [
+         {
+            "Department Code": "ACCT",
+            "Department Name": "Accounting"
+         },
+         {
+            "Department Code": "BUSP",
+            "Department Name": "Business Undergraduate Special Programs"
+         },
+         {
+            "Department Code": "IBUS",
+            "Department Name": "Center For International Business Studies"
+         },
+         {
+            "Department Code": "EXDE",
+            "Department Name": "Center for Executive Development"
+         },
+         {
+            "Department Code": "EMBA",
+            "Department Name": "Executive MBA Program"
+         },
+         {
+            "Department Code": "FINC",
+            "Department Name": "Finance"
+         },
+         {
+            "Department Code": "BANA",
+            "Department Name": "Information & Operations Management"
+         },
+         {
+            "Department Code": "BMPO",
+            "Department Name": "MBA Program Office"
+         },
+         {
+            "Department Code": "MGMT",
+            "Department Name": "Management"
+         },
+         {
+            "Department Code": "MKTG",
+            "Department Name": "Marketing"
+         },
+         {
+            "Department Code": "MIRC",
+            "Department Name": "Mays Innovation Research Center"
+         },
+         {
+            "Department Code": "CLBA",
+            "Department Name": "Office of the Dean of Mays Business School"
+         },
+         {
+            "Department Code": "TRER",
+            "Department Name": "Texas Real Estate Research Center"
+         }
+      ]
+   },
+   "School of Innovation": {
+      "College Code": "",
+      "Departments": [
+         {
+            "Department Code": "ISED",
+            "Department Name": "Office of the Dean of the School of Innovation"
+         }
+      ]
+   },
+   "School of Law": { 
+      "College Code": "CLLW",
+      "Departments": [
+         {
+            "Department Code": "CLLW",
+            "Department Name": "School of Law"
+         }
+      ]
+   }
+}
