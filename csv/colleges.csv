@@ -1,0 +1,109 @@
+college_name,unit_code,unit_name,college_code
+College of Agriculture & Life Sciences,AGEC,Agricultural Economics,CLAG
+College of Agriculture & Life Sciences,AGED,Agriculture Education,CLAG
+College of Agriculture & Life Sciences,AGEN,Biological & Agricultural Engineering,CLAG
+College of Agriculture & Life Sciences,ANSC,Animal Science,CLAG
+College of Agriculture & Life Sciences,BCBP,Biochemistry & Biophysics,CLAG
+College of Agriculture & Life Sciences,ENTO,Entomology,CLAG
+College of Agriculture & Life Sciences,HORT,Horticultural Sciences,CLAG
+College of Agriculture & Life Sciences,PLPM,Plant Pathology & Microbiology,CLAG
+College of Agriculture & Life Sciences,NFSC,Nutrition,CLAG
+College of Agriculture & Life Sciences,RPTS,Recreation Parks & Tourism Science,CLAG
+College of Agriculture & Life Sciences,SCSC,Soil & Crop Sciences,CLAG
+College of Agriculture & Life Sciences,ECCB,Ecology & Conservation Biology,CLAG
+College of Agriculture & Life Sciences,RWFM,Rangeland Wildlife & Fisheries Management,CLAG
+College of Agriculture & Life Sciences,FSTC,Food Science & Technology,CLAG
+College of Agriculture & Life Sciences,CLAG,Office of the Dean of Agriculture & Life Sciences,CLAG
+College of Architecture,ARCH,Architecture,CLAR
+College of Architecture,COSC,Construction Science,CLAR
+College of Architecture,LAUP,Landscape Architecture & Urban Planning,CLAR
+College of Architecture,VIZA,Visualization,CLAR
+College of Architecture,CLAR,Office of the Dean of Architecture,CLAR
+College of Architecture,COLN,Colonias Program,CLAR
+Bush School of Government & Public Service,SGPS,Bush School of Government & Public Service,SGPS
+Bush School of Government & Public Service,BUDC,Bush School DC Teaching Site,SGPS
+Bush School of Government & Public Service,INTA,International Affairs,SGPS
+Bush School of Government & Public Service,PSAA,Public Service & Administration,SGPS
+Bush School of Government & Public Service,BPCC,Presidential Conference Center,SGPS
+College of Education,TLAC,Teaching Learning & Culture,CLED
+College of Education,EAHR,Educational Administration & Human Resources Development,CLED
+College of Education,EPSY,Educational Psychology,CLED
+College of Education,HLKN,Health & Kinesiology,CLED
+College of Education,CLED,Office of the Dean of Education,CLED
+College of Education,CERD,Research & Development,CLED
+College of Engineering,AERO,Aerospace Engineering,CLEN
+College of Engineering,CHEN,Chemical Engineering,CLEN
+College of Engineering,CVEN,Civil Engineering,CLEN
+College of Engineering,BMEN,Biomedical Engineering,CLEN
+College of Engineering,CPSC,Computer Science & Engineering,CLEN
+College of Engineering,ELEN,Electrical & Computer Engineering,CLEN
+College of Engineering,ENTC,Engineering Technology & Industrial Distribution,CLEN
+College of Engineering,INEN,Industrial & Systems Engineering,CLEN
+College of Engineering,MEEN,Mechanical Engineering,CLEN
+College of Engineering,NUEN,Nuclear Engineering,CLEN
+College of Engineering,PETE,Petroleum Engineering,CLEN
+College of Engineering,MSEN,Materials Science & Engineering,CLEN
+College of Engineering,ZACH,Zachry Engineering Education Complex,CLEN
+College of Engineering,MTDE,Multidisciplinary Engineering,CLEN
+College of Engineering,MCF,Materials Characterization Facility,CLEN
+College of Engineering,OCEN,Ocean Engineering,CLEN
+College of Engineering,EAPO,Engineering Student Services & Academic Programs,CLEN
+College of Engineering,DLEN,Remote Education,CLEN
+College of Engineering,CLEN,Office of the Dean of Engineering,CLEN
+College of Geosciences,GEOG,Geography,CLGE
+College of Geosciences,GEOL,Geology,CLGE
+College of Geosciences,METR,Meteorology,CLGE
+College of Geosciences,OCNG,Oceanography,CLGE
+College of Geosciences,GERG,Geochemical & Environmental Research Group,CLGE
+College of Geosciences,IODP,International Ocean Discovery Program,CLGE
+College of Geosciences,CLGE,Office of the Dean of Geosciences,CLGE
+College of Geosciences,SEAG,Sea Grant Program Office,CLGE
+School of Law,CLLW,School of Law,CLLW
+College of Liberal Arts,ECON,Economics,CLLA
+College of Liberal Arts,ENGL,English,CLLA
+College of Liberal Arts,HIST,History,CLLA
+College of Liberal Arts,PERF,Performance Studies,CLLA
+College of Liberal Arts,PHIL,Philosophy & Humanities,CLLA
+College of Liberal Arts,POLS,Political Science,CLLA
+College of Liberal Arts,PSYC,Psychology,CLLA
+College of Liberal Arts,ANTH,Anthropology,CLLA
+College of Liberal Arts,SOCI,Sociology,CLLA
+College of Liberal Arts,SCOM,Communication,CLLA
+College of Liberal Arts,INTST,International Studies,CLLA
+College of Liberal Arts,HISP,Hispanic Studies,CLLA
+College of Liberal Arts,CLLA,Office of the Dean of Liberal Arts,CLLA
+College of Liberal Arts,PPRI,Public Policy Research Institute,CLLA
+Mays Business School,ACCT,Accounting,CLBA
+Mays Business School,BANA,Information & Operations Management,CLBA
+Mays Business School,FINC,Finance,CLBA
+Mays Business School,MGMT,Management,CLBA
+Mays Business School,MKTG,Marketing,CLBA
+Mays Business School,BMPO,MBA Program Office,CLBA
+Mays Business School,IBUS,Center For International Business Studies,CLBA
+Mays Business School,CLBA,Office of the Dean of Mays Business School,CLBA
+Mays Business School,EXDE,Center for Executive Development,CLBA
+Mays Business School,EMBA,Executive MBA Program,CLBA
+Mays Business School,BUSP,Business Undergraduate Special Programs,CLBA
+Mays Business School,MIRC,Mays Innovation Research Center,CLBA
+Mays Business School,TRER,Texas Real Estate Research Center,CLBA
+College of Science,BIOL,Biology,CLSC
+College of Science,CHEM,Chemistry,CLSC
+College of Science,STAT,Statistics,CLSC
+College of Science,MATH,Mathematics,CLSC
+College of Science,PHYS,Physics & Astronomy,CLSC
+College of Science,ATLT,Academy for Advanced Telecommunications and Learning Technologies,CLSC
+College of Science,CLSC,Office of the Dean of Science,CLSC
+College of Science,ISC,Institute For Scientific Computation,CLSC
+College of Science,CYCL,Cyclotron Institute,CLSC
+College of Science,IAMCS,Institute for Applied Mathematics and Computational Science,CLSC
+College of Veterinary Medicine & Biomedical Sciences,CLVM,Office of the Dean of Veterinary Medicine & Biomedical Science,CLVM
+College of Veterinary Medicine & Biomedical Sciences,VIBS,Veterinary Integrative Biosciences,CLVM
+College of Veterinary Medicine & Biomedical Sciences,VLCS,Large Animal Clinical Sciences,CLVM
+College of Veterinary Medicine & Biomedical Sciences,VSCS,Small Animal Clinical Sciences,CLVM
+College of Veterinary Medicine & Biomedical Sciences,VTPB,Veterinary Pathobiology,CLVM
+College of Veterinary Medicine & Biomedical Sciences,VTPP,Veterinary Physiology & Pharmacology,CLVM
+College of Veterinary Medicine & Biomedical Sciences,VBMS,Biomedical Sciences,CLVM
+College of Veterinary Medicine & Biomedical Sciences,VMTH,Veterinary Medical Teaching Hospital,CLVM
+College of Veterinary Medicine & Biomedical Sciences,VTPK,Veterinary Medical Park,CLVM
+College of Veterinary Medicine & Biomedical Sciences,TIPS,Texas Institute For Preclinical Studies,CLVM
+School of Innovation,ISED,Office of the Dean of the School of Innovation,SINV

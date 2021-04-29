@@ -1,0 +1,128 @@
+{
+    "DSA": {
+        "name": "Division of Student Affairs",
+        "code": "DSA",
+        "units": {
+            "STLS": "Student Life Studies",
+            "STAF": "Offices of the Dean of Student Life",
+            "CCOR": "Office of the Commandant",
+            "DSSA": "Disability Services",
+            "MUSA": "Department of Music Activities",
+            "DOIT": "Department of Information Technology",
+            "MUSC": "Multicultural Services",
+            "SCOU": "Counseling & Psychological Services",
+            "SACT": "Student Activities",
+            "UART": "University Art Exhibits",
+            "VRSC": "Veteran Resource & Support Center",
+            "RELH": "Residence Life",
+            "BEUT": "Student Health Services",
+            "RSPO": "Department of Recreational Sports",
+            "MSCN": "Memorial Student Center Programs",
+            "UCEN": "University Center & Special Events",
+            "CHCR": "Children's Center",
+            "RUDD": "Rudder Theatre Complex"
+        }
+    },
+    "DMC": {
+        "name": "Division of Marketing & Communications",
+        "code": "DMC",
+        "units": {
+            "VPMC": "Office of the Vice President For Marketing And Communications",
+            "EDBS": "Educational Broadcast Services"
+        }
+    },
+    "DAA": {
+        "name": "Division of Academic Affairs",
+        "code": "DAA",
+        "units": {
+            "UHON": "Launch",
+            "APHU": "Associate Provost for Undergraduate Studies",
+            "ACAD": "Transition Academic Programs",
+            "SABR": "Education Abroad",
+            "ASC": "Academic Success Center",
+            "MHEC": "McAllen Higher Ed Center",
+            "MLC": "Math Learning Center",
+            "UWC": "University Writing Center",
+            "APDF": "Dean of Faculties",
+            "TEXC": "Center For Teaching Excellence",
+            "ADVA": "Advance",
+            "GRST": "Office of Graduate & Professional Studies",
+            "AIOL": "Office for Academic Innovation",
+            "OOIA": "Office of Institutional Effectiveness & Evaluation",
+            "APAA": "Office of the Vice Provost for Academic Affairs",
+            "AHSO": "Aggie Honor System Office",
+            "OSS": "Office for Student Success"
+        }
+    },
+    "DIT": {
+        "name": "Division of Information Technology",
+        "code": "DIT",
+        "units": {
+            "APCI": "Texas A&M Health Information Technology",
+            "CSCN": "Office of the Vice President For Information Technology & CIO"
+        }
+    },
+    "DEA": {
+        "name": "Division of Enrollment & Academic Services",
+        "code": "DEA",
+        "units": {
+            "ADMI": "Office of Admissions",
+            "CARC": "Career Center",
+            "SFAOP": "Scholarships & Financial Aid",
+            "ODRS": "Data & Research Services",
+            "AABS": "Academic Affairs Business Services",
+            "ITAS": "Open Access Labs",
+            "REGI": "Office of the Registrar",
+            "AAVC": "Appelt Aggieland Visitor Center",
+            "HECN": "Instructional Media Services",
+            "EMARK": "Enrollment & Academic Services Marketing",
+            "ISS": "International Student Services"
+        }
+    },
+    "DHR": {
+        "name": "Division of Human Resources & Organizational Effectiveness",
+        "code": "DHR",
+        "units": {
+            "HUMR": "Human Resources"
+        }
+    },
+    "DFO": {
+        "name": "Division of Finance & Operations",
+        "code": "DFO",
+        "units": {
+            "OBAS": "Office of Budget & Planning",
+            "VPFN3": "Office of the Associate Vice President & Controller",
+            "PAYR": "Payroll Services",
+            "SFSV": "Student Business Services",
+            "FISC": "Financial Management Operations",
+            "DAS": "Departmental Accounting Services",
+            "EDPS": "IT Services",
+            "UARC": "Office of the University Architect",
+            "SUST": "Office of Sustainability",
+            "FDA": "Facilities & Dining Administration",
+            "UTIL": "Utilities & Energy Services",
+            "COPS": "University Police",
+            "EHSD": "Environmental Health & Safety",
+            "SASE": "Office of Safety & Security",
+            "PURS": "Procurement Services",
+            "CCOM": "Department of Contract Administration",
+            "CREC": "Logistics Services",
+            "PATT": "Transportation Services"
+        }
+    },
+    "DOR": {
+        "name": "Division of Research",
+        "code": "DOR",
+        "units": {
+            "LAAR": "Comparative Medicine Program",
+            "WSGI": "Institute for Genome Sciences & Society",
+            "ENRGY": "Energy Institute",
+            "URES": "Office of the Vice President for Research",
+            "GHRC": "Global Health Research Complex",
+            "TAMDS": "Institute of Data Science",
+            "EMIC": "Microscopy & Imaging Center",
+            "OSRS": "Sponsored Research Services",
+            "MSTRO": "Research Information Systems"
+        }
+    }
+}
