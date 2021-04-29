@@ -178,12 +178,5 @@
         "units": {
             "ISED": "Office of the Dean of the School of Innovation"
         }
-    },
-    "TEST": {
-        "name": "Test2",
-        "code": "TEST",
-        "units": {
-            "TEST": "Testy test2"
-        }
     }
 }
