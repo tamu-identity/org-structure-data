@@ -172,11 +172,18 @@
             "TIPS": "Texas Institute For Preclinical Studies"
         }
     },
-    "SINV": {
+    "ISED": {
         "name": "School of Innovation",
-        "code": "SINV",
+        "code": "ISED",
         "units": {
             "ISED": "Office of the Dean of the School of Innovation"
+        }
+    },
+    "TEST": {
+        "name": "Test2",
+        "code": "TEST",
+        "units": {
+            "TEST": "Testy test2"
         }
     }
 }
