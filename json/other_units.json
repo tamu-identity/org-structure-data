@@ -1,0 +1,43 @@
+{
+    "PRES": {
+        "name": "Office of the President",
+        "code": "PRES",
+        "units": {
+            "VPFN": "Office of the Vice President For Finance & Chief Financial Officer",
+            "GOVT": "Office of the Vice President For Government Relations and Strategic Initiatives ",
+            "VPSS": "Vice President For Student Affairs",
+            "MASD": "Office of Risk, Ethics and Compliance"
+        }
+    },
+    "PROV": {
+        "name": "Office of the Provost And Executive Vice President",
+        "code": "PROV",
+        "units": {
+            "PERC": "Private Enterprise Research Center",
+            "PPO": "Public Partnership & Outreach",
+            "EIS": "Enterprise Information Systems",
+            "TAMIN": "Institute for Neuroscience",
+            "IQSE": "Institute for Quantum Science & Engineering",
+            "PCOMM": "Provost Communications Office",
+            "IDIV": "Office of the Vice President & Associate Provost for Diversity ",
+            "TAMIP": "Innovation Partners"
+        }
+    },
+    "ATHL": {
+        "name": "Athletics",
+        "code": "ATHL",
+        "units": {
+            "ATCO": "Athletic Compliance",
+            "ATHL": "Director of Athletics",
+            "REED": "Reed Arena"
+        }
+    },
+    "LIBR": {
+        "name": "University Libraries",
+        "code": "LIBR",
+        "units": {
+            "UPRS": "Texas A&M University Press",
+            "LIBR": "Office of the Dean of University Libraries"
+        }
+    }
+}

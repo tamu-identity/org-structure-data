@@ -1,0 +1,182 @@
+{
+    "CLAG": {
+        "name": "College of Agriculture & Life Sciences",
+        "code": "CLAG",
+        "units": {
+            "AGEC": "Agricultural Economics",
+            "AGED": "Agriculture Education",
+            "AGEN": "Biological & Agricultural Engineering",
+            "ANSC": "Animal Science",
+            "BCBP": "Biochemistry & Biophysics",
+            "ENTO": "Entomology",
+            "HORT": "Horticultural Sciences",
+            "PLPM": "Plant Pathology & Microbiology",
+            "NFSC": "Nutrition",
+            "RPTS": "Recreation Parks & Tourism Science",
+            "SCSC": "Soil & Crop Sciences",
+            "ECCB": "Ecology & Conservation Biology",
+            "RWFM": "Rangeland Wildlife & Fisheries Management",
+            "FSTC": "Food Science & Technology",
+            "CLAG": "Office of the Dean of Agriculture & Life Sciences"
+        }
+    },
+    "CLAR": {
+        "name": "College of Architecture",
+        "code": "CLAR",
+        "units": {
+            "ARCH": "Architecture",
+            "COSC": "Construction Science",
+            "LAUP": "Landscape Architecture & Urban Planning",
+            "VIZA": "Visualization",
+            "CLAR": "Office of the Dean of Architecture",
+            "COLN": "Colonias Program"
+        }
+    },
+    "SGPS": {
+        "name": "Bush School of Government & Public Service",
+        "code": "SGPS",
+        "units": {
+            "SGPS": "Bush School of Government & Public Service",
+            "BUDC": "Bush School DC Teaching Site",
+            "INTA": "International Affairs",
+            "PSAA": "Public Service & Administration",
+            "BPCC": "Presidential Conference Center"
+        }
+    },
+    "CLED": {
+        "name": "College of Education",
+        "code": "CLED",
+        "units": {
+            "TLAC": "Teaching Learning & Culture",
+            "EAHR": "Educational Administration & Human Resources Development",
+            "EPSY": "Educational Psychology",
+            "HLKN": "Health & Kinesiology",
+            "CLED": "Office of the Dean of Education",
+            "CERD": "Research & Development"
+        }
+    },
+    "CLEN": {
+        "name": "College of Engineering",
+        "code": "CLEN",
+        "units": {
+            "AERO": "Aerospace Engineering",
+            "CHEN": "Chemical Engineering",
+            "CVEN": "Civil Engineering",
+            "BMEN": "Biomedical Engineering",
+            "CPSC": "Computer Science & Engineering",
+            "ELEN": "Electrical & Computer Engineering",
+            "ENTC": "Engineering Technology & Industrial Distribution",
+            "INEN": "Industrial & Systems Engineering",
+            "MEEN": "Mechanical Engineering",
+            "NUEN": "Nuclear Engineering",
+            "PETE": "Petroleum Engineering",
+            "MSEN": "Materials Science & Engineering",
+            "ZACH": "Zachry Engineering Education Complex",
+            "MTDE": "Multidisciplinary Engineering",
+            "MCF": "Materials Characterization Facility",
+            "OCEN": "Ocean Engineering",
+            "EAPO": "Engineering Student Services & Academic Programs",
+            "DLEN": "Remote Education",
+            "CLEN": "Office of the Dean of Engineering"
+        }
+    },
+    "CLGE": {
+        "name": "College of Geosciences",
+        "code": "CLGE",
+        "units": {
+            "GEOG": "Geography",
+            "GEOL": "Geology",
+            "METR": "Meteorology",
+            "OCNG": "Oceanography",
+            "GERG": "Geochemical & Environmental Research Group",
+            "IODP": "International Ocean Discovery Program",
+            "CLGE": "Office of the Dean of Geosciences",
+            "SEAG": "Sea Grant Program Office"
+        }
+    },
+    "CLLW": {
+        "name": "School of Law",
+        "code": "CLLW",
+        "units": {
+            "CLLW": "School of Law"
+        }
+    },
+    "CLLA": {
+        "name": "College of Liberal Arts",
+        "code": "CLLA",
+        "units": {
+            "ECON": "Economics",
+            "ENGL": "English",
+            "HIST": "History",
+            "PERF": "Performance Studies",
+            "PHIL": "Philosophy & Humanities",
+            "POLS": "Political Science",
+            "PSYC": "Psychology",
+            "ANTH": "Anthropology",
+            "SOCI": "Sociology",
+            "SCOM": "Communication",
+            "INTST": "International Studies",
+            "HISP": "Hispanic Studies",
+            "CLLA": "Office of the Dean of Liberal Arts",
+            "PPRI": "Public Policy Research Institute"
+        }
+    },
+    "CLBA": {
+        "name": "Mays Business School",
+        "code": "CLBA",
+        "units": {
+            "ACCT": "Accounting",
+            "BANA": "Information & Operations Management",
+            "FINC": "Finance",
+            "MGMT": "Management",
+            "MKTG": "Marketing",
+            "BMPO": "MBA Program Office",
+            "IBUS": "Center For International Business Studies",
+            "CLBA": "Office of the Dean of Mays Business School",
+            "EXDE": "Center for Executive Development",
+            "EMBA": "Executive MBA Program",
+            "BUSP": "Business Undergraduate Special Programs",
+            "MIRC": "Mays Innovation Research Center",
+            "TRER": "Texas Real Estate Research Center"
+        }
+    },
+    "CLSC": {
+        "name": "College of Science",
+        "code": "CLSC",
+        "units": {
+            "BIOL": "Biology",
+            "CHEM": "Chemistry",
+            "STAT": "Statistics",
+            "MATH": "Mathematics",
+            "PHYS": "Physics & Astronomy",
+            "ATLT": "Academy for Advanced Telecommunications and Learning Technologies",
+            "CLSC": "Office of the Dean of Science",
+            "ISC": "Institute For Scientific Computation",
+            "CYCL": "Cyclotron Institute",
+            "IAMCS": "Institute for Applied Mathematics and Computational Science"
+        }
+    },
+    "CLVM": {
+        "name": "College of Veterinary Medicine & Biomedical Sciences",
+        "code": "CLVM",
+        "units": {
+            "CLVM": "Office of the Dean of Veterinary Medicine & Biomedical Science",
+            "VIBS": "Veterinary Integrative Biosciences",
+            "VLCS": "Large Animal Clinical Sciences",
+            "VSCS": "Small Animal Clinical Sciences",
+            "VTPB": "Veterinary Pathobiology",
+            "VTPP": "Veterinary Physiology & Pharmacology",
+            "VBMS": "Biomedical Sciences",
+            "VMTH": "Veterinary Medical Teaching Hospital",
+            "VTPK": "Veterinary Medical Park",
+            "TIPS": "Texas Institute For Preclinical Studies"
+        }
+    },
+    "SINV": {
+        "name": "School of Innovation",
+        "code": "SINV",
+        "units": {
+            "ISED": "Office of the Dean of the School of Innovation"
+        }
+    }
+}
