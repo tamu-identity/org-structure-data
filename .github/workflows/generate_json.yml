@@ -6,14 +6,14 @@ on:
   # Triggers the workflow on push or pull request events only when CSV data is changed
   push:
     paths:
-      - colleges.csv
-      - divisions.csv
-      - other_units.csv
+      - 'colleges.csv'
+      - 'divisions.csv'
+      - 'other_units.csv'
   pull_request:
     paths:
-      - colleges.csv
-      - divisions.csv
-      - other_units.csv
+      - 'colleges.csv'
+      - 'divisions.csv'
+      - 'other_units.csv'
 
   # Allows running this workflow manually from the Actions tab
   workflow_dispatch:
