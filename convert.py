@@ -16,7 +16,7 @@ for filename in os.listdir('csv/02'):
   set_name = split_string[0]
 
   # Open relevant CSV file
-  with open(f'csv/{filename}') as csv_file:
+  with open(f'csv/02/{filename}') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     # Iterate over rows in CSV file
     for row in csv_reader:
@@ -36,7 +36,7 @@ for filename in os.listdir('csv/02'):
         LIST[code] = parent_object
 
   # Write the JSON out to a file, using set_name
-  with open(f'json/{set_name}.json', 'w', encoding='utf-8') as fp:
+  with open(f'json/02/{set_name}.json', 'w', encoding='utf-8') as fp:
     json.dump(LIST, fp, ensure_ascii=False, indent=4)
 
 for filename in os.listdir('csv/23'):
@@ -52,7 +52,7 @@ for filename in os.listdir('csv/23'):
   set_name = split_string[0]
 
   # Open relevant CSV file
-  with open(f'csv/{filename}') as csv_file:
+  with open(f'csv/23/{filename}') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     # Iterate over rows in CSV file
     for row in csv_reader:
@@ -72,5 +72,5 @@ for filename in os.listdir('csv/23'):
         LIST[code] = parent_object
 
   # Write the JSON out to a file, using set_name
-  with open(f'json/{set_name}.json', 'w', encoding='utf-8') as fp:
+  with open(f'json/23/{set_name}.json', 'w', encoding='utf-8') as fp:
     json.dump(LIST, fp, ensure_ascii=False, indent=4)
