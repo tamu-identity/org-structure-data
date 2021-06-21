@@ -1,0 +1,100 @@
+{
+    "CBD": {
+        "name": "College of Dentistry",
+        "code": "CBD",
+        "units": {
+            "0501": "Academic Affairs",
+            "0521": "Admissions & Recruitment",
+            "0500": "Animal Resource Unit",
+            "0304": "Biomedical Sciences",
+            "0346": "Clinical Affairs",
+            "0538": "Communications & Development",
+            "0328": "Comprehensive Dentistry",
+            "0322": "Dental Hygiene",
+            "0324": "Endodontics",
+            "0330": "Diagnostic Sciences",
+            "0544": "Finance",
+            "0530": "Financial Services",
+            "0347": "Imaging Center",
+            "0510": "Library",
+            "0515": "Media Resources",
+            "0546": "Office of the Dean",
+            "0332": "Oral Surgery",
+            "0334": "Orthodontics",
+            "0336": "Pediatric Dentistry",
+            "0338": "Periodontics",
+            "0536": "Printing Services",
+            "0340": "Public Health Sciences",
+            "0543": "Purchasing",
+            "0537": "Receiving & Central Stores",
+            "0315": "Research & Advanced Education",
+            "0522": "Student Affairs",
+            "0524": "Student Development & Multicultural Affairs",
+            "0520": "Student Health Clinic"
+        }
+    },
+    "CMD": {
+        "name": "College of Medicine",
+        "code": "CMD",
+        "units": {
+            "2510": "Academic Affairs",
+            "2509": "Academic Technology",
+            "2565": "Admissions",
+            "2502": "Regional Campus - Temple",
+            "2512": "Regional Campus - Round Rock",
+            "2511": "Regional Campus - Bryan/College Station",
+            "2503": "Business Affairs",
+            "2517": "Diversity",
+            "2200": "Clinical Science & Translational Research",
+            "2518": "Medical Education",
+            "2522": "Engineering Medicine",
+            "2513": "Faculty Development",
+            "2504": "Graduate Medical Education",
+            "2080": "Humanities In Medicine",
+            "2060": "Medical Physiology",
+            "2527": "Medical Student Research",
+            "2560": "Office Of Student Affairs",
+            "2030": "Microbial Pathogenesis & Immunology",
+            "2020": "Molecular & Cellular Medicine",
+            "2010": "Neuroscience & Experimental Therapeutics",
+            "2507": "Office of Research",
+            "2516": "Office of Evaluation & Assessment",
+            "2525": "Office of Medical Education",
+            "2500": "Office of the Dean",
+            "2115": "Primary Care & Population Health",
+            "2123": "Psychiatry & Behavioral Science",
+            "2071": "Family Medicine Residency",
+            "2005": "Translational Medical Sciences"
+        }
+    },
+    "CNU": {
+        "name": "College of Nursing",
+        "code": "CNU",
+        "units": {
+            "1000": "Office of the Dean",
+            "1020": "Academic Support"
+        }
+    },
+    "CPH": {
+        "name": "College of Pharmacy",
+        "code": "CPH",
+        "units": {
+            "3500": "Office of the Dean",
+            "3550": "Pharmacy Instruction"
+        }
+    },
+    "CRH": {
+        "name": "School of Public Health",
+        "code": "CRH",
+        "units": {
+            "8062": "Center for Population Health & Aging",
+            "8015": "Public Health Studies",
+            "8030": "Environmental & Occupational Health",
+            "8040": "Epidemiology & Biostatistics",
+            "8050": "Health Policy & Management",
+            "8060": "Health Promotion & Community Health Sciences",
+            "8010": "Office of the Dean",
+            "8061": "Center for Community Health Development"
+        }
+    }
+}

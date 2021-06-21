@@ -1,0 +1,36 @@
+{
+    "DHS": {
+        "name": "Health Science Center",
+        "code": "DHS",
+        "units": {
+            "4510": "Rural And Community Health Institute",
+            "4120": "Facilities & Safety Administration",
+            "4240": "Clinical Learning Resource Center",
+            "4450": "Clinical Strategy",
+            "4540": "Center For Innovation In Advanced Development & Manufacturing",
+            "5000": "Coastal Bend Health Education Center",
+            "4100": "Finance And Administration",
+            "4070": "Healthy Texas Initiatives",
+            "4266": "Interprofessional Education & Research",
+            "4710": "Office of Marketing & Communications",
+            "6050": "Research Administration",
+            "4160": "Risk Management",
+            "4150": "Security",
+            "4000": "Office of the Senior Vice President & CEO",
+            "3000": "McAllen Campus",
+            "4530": "TexVet"
+        }
+    },
+    "CIB": {
+        "name": "Institute of Biosciences & Technology",
+        "code": "CIB",
+        "units": {
+            "7050": "Epigenetics & Disease Prevention",
+            "7120": "Translational Cancer Research",
+            "7070": "Program for Animal Resources",
+            "7140": "Genomics & Precision Medicine",
+            "7040": "Infectious & Inflammatory Diseases",
+            "7010": "Office of the Director"
+        }
+    }
+}
