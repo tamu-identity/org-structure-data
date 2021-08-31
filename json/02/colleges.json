@@ -171,12 +171,5 @@
             "VTPK": "Veterinary Medical Park",
             "TIPS": "Texas Institute For Preclinical Studies"
         }
-    },
-    "ISED": {
-        "name": "School of Innovation",
-        "code": "ISED",
-        "units": {
-            "ISED": "Office of the Dean of the School of Innovation"
-        }
     }
 }
